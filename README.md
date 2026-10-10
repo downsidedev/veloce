@@ -22,9 +22,11 @@ Planned features for Veloce 6 (Arrabiata)
 FAQ:
 
 Q: Do old Veloce versions have EOL dates?
+
 A: I am not sure, this is a new browser project, so EOL might come late.
 
 Q: Why does the installer get 1 out of 69 flagged on virustotal?
+
 A: This is a false positive, i am trying to fix this, currently i am using Inno Setup, so it must be something on their behalf. If you dont feel safe, you can make your own installer using the "Full Code" compressed files.
 
 Stuff i am researching for now:
