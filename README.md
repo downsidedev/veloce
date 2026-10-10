@@ -21,17 +21,16 @@ Planned features for Veloce 6 (Arrabiata)
 
 FAQ:
 
-Do old Veloce versions have EOL dates?
-I am not sure, this is a new browser project, so EOL might come late.
+Q: Do old Veloce versions have EOL dates?
+A: I am not sure, this is a new browser project, so EOL might come late.
 
-Why does the installer get 1 out of 69 flagged on virustotal?
-This is a false positive, i am trying to fix this, currently i am using Inno Setup, so it
-must be something on their behalf. If you dont feel safe, you can make your own installer using the "Full Code" compressed files.
+Q: Why does the installer get 1 out of 69 flagged on virustotal?
+A: This is a false positive, i am trying to fix this, currently i am using Inno Setup, so it must be something on their behalf. If you dont feel safe, you can make your own installer using the "Full Code" compressed files.
 
 Stuff i am researching for now:
 A better browser engine, for now, it is running webview (microsoft), i need a better engine, please suggest one in pull requests.
 New ways to make it lightweight.
 Current size
-~75MB installer
-~80MB full code
-~240MB when installed
+1. ~75MB installer
+2. ~80MB full code
+3. ~240MB when installed
