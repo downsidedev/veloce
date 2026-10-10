@@ -1,8 +1,6 @@
 # veloce
 
-
-<img width="797" height="752" alt="veloce" src="https://github.com/user-attachments/assets/9cc3f9f2-06cf-4d6a-98b2-32be2e1f1f09" />
-
+<img width="474" height="373" alt="icon" src="https://github.com/user-attachments/assets/78cfeaaa-467f-4813-8946-c260207b1b5f" />
 
 Veloce, a lightweight browser.
 
